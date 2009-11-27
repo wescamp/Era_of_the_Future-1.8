@@ -1,0 +1,59 @@
+Credits
+
+This is a list of everyone that contributed to the Era of the Future, and what they do to contribute.
+
+
+Turuk
+
+- Origional coder of the Era of the Future.
+- Helped with unit descriptions for the Welkin.
+- Came up with the name Welkin.
+- No longer able to contribute due to being in the U.S. Army.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Mirion147
+
+- Head of Art for the Era's Factions.
+- Made the origional unit descriptions for the Welkin.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Huston
+
+- Head of WML coding for the Era of the Future.
+- Redid the coding for the Era files.
+- Fixed bugs with the Welkin.
+- Made origional release of the Era of the Future on the add-on server.
+- Main person who makes releases.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Pentarctagon
+
+- Codes units
+- Helps with Releases
+- Origional coder of many units in the Brungar.
+- Head of Balancing.
+- Helps with unit descriptions.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Wesfreak
+
+- Contributed Baby Sea Turtle Sprite.
+- Helps in testing.
+- Continues to work on artwork.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Xandria
+
+- Revamps Unit Descriptions.
+- Gives Balancing ideas.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Zerovirus
+
+- Contributed the Leviathan Sprite and Description.
