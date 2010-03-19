@@ -8,7 +8,7 @@ Turuk
 - Origional coder of the Era of the Future.
 - Helped with unit descriptions for the Welkin.
 - Came up with the name Welkin.
-- No longer able to contribute due to being in the U.S. Army.
+- No longer able to contribute due to being in the U.S. Armed Forces.
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
@@ -36,6 +36,7 @@ Pentarctagon
 - Origional coder of many units in the Brungar.
 - Head of Balancing.
 - Helps with unit descriptions.
+- Map Contributor
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
@@ -56,4 +57,5 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 Zerovirus
 
-- Contributed the Leviathan Sprite and Description.
+- Art contributor to the Era of the Future.
+- Contributions includes most of the Nordhris sprites and a few sprites from the Brungar
